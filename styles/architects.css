@@ -203,6 +203,18 @@ main {
 .sponsors-img-container img{
     width: 165px;
 }
+
+/* footer styles */
+footer{
+    background-color: #fff4e7;
+    position: absolute;
+    width: 1140px;
+    height: 50px;
+    left: 700px;
+}
+footer p{
+    text-align: center;
+}
  
 
 /* media query styles*/
